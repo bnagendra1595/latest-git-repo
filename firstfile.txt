@@ -1,0 +1,2 @@
+hello this is my first file to start working with git repo
+again i will meet in new file to move farward
