@@ -1,3 +1,3 @@
 hello this is my first file to start working with git repo
 again i will meet in new file to move farward
-hello this change is going to make conflict
+hello this change is going to make conflictiam going to make some changes in this file as a feature branch
